@@ -1,7 +1,7 @@
 # Hi there, I'm Audy - Audy [Audyari Wiyono](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently working as Network Enginer
+- 🌱 I’m currently learning php and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
