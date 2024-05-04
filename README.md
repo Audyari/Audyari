@@ -44,8 +44,8 @@
 
 
 
-[![website](./img/linkedin-light.svg)(https://www.linkedin.com/in/audyari-wiyono-249b4322b/)
-[![website](./img/linkedin-dark.svg)][(https://www.linkedin.com/in/audyari-wiyono-249b4322b/)]).
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/audyari-wiyono-249b4322b/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/audyari-wiyono-249b4322b/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
