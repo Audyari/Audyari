@@ -19,11 +19,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="40" height="40" alt="React" />
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="40" height="40" alt="Vue.js" />
-  <!-- Add other icons similarly -->
-</p>
+<ul>
+  <li>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="40" height="40" alt="React" />
+    <span>React</span>
+  </li>
+  <li>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="40" height="40" alt="Vue.js" />
+    <span>Vue.js</span>
+  </li>
+  <!-- Tambahkan item lainnya -->
+</ul>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=audyari&show_icons=true&locale=en&layout=compact" alt="audyari" />
