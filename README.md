@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="40" height="40" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="40" height="40" alt="Vue.js" />
   <!-- Add other icons similarly -->
 </p>
