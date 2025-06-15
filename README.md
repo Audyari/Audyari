@@ -10,9 +10,9 @@
 
 <h3 align="left">💻 Current Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Audyari/hello-world">Hello World</a> - My first web project with HTML, CSS, JavaScript</li>
-  <li><a href="https://github.com/Audyari/todo-list-app">Todo List App</a> - Full-stack CRUD application (Coming Soon)</li>
-  <li><a href="https://github.com/Audyari/portfolio-website">Portfolio Website</a> - React-based personal website (In Progress)</li>
+  <li><a href="https://github.com/Audyari/hello-world">Hello World</a> - My first web project built with Rust</li>
+  <li><a href="https://github.com/Audyari/todo-list-app">Todo List App</a> - Full-stack CRUD application built with Rust + WebAssembly (Coming Soon)</li>
+  <li><a href="https://github.com/Audyari/portfolio-website">Portfolio Website</a> - High-performance personal website using Rust web frameworks (In Progress)</li>
 </ul>
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -29,6 +29,8 @@
 
 **Web Development:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
@@ -63,10 +65,11 @@
 
 <h3 align="left">🎯 Currently Learning:</h3>
 <ul>
-  <li>Advanced React patterns and hooks</li>
-  <li>Backend development with Express.js</li>
-  <li>Database design and optimization</li>
-  <li>DevOps practices and CI/CD</li>
+  <li>Rust web frameworks (Actix-Web, Axum, Warp)</li>
+  <li>WebAssembly for high-performance web apps</li>
+  <li>Advanced Rust patterns and async programming</li>
+  <li>Database integration with Rust (Diesel, SQLx)</li>
+  <li>DevOps with Rust applications</li>
 </ul>
 
 ---
