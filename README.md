@@ -15,6 +15,7 @@
   <li><a href="https://github.com/Audyari/portfolio-website">Portfolio Website</a> - High-performance personal website using Rust web frameworks (In Progress)</li>
   <li><a href="https://github.com/Audyari/Kalkulator-Sederhana">Kalkulator Sederhana</a> - Kalkulator Sederhana using Python (Done)</li>
   <li><a href="https://github.com/Audyari/Simple-AI-Chatbot">Simple AI Chatbot</a> - Simple AI Chatbot using Python (Done)</li>
+   <li><a href="https://github.com/Audyari/StudyMate ">Study Guide Creator</a> - Study Guide Creator using Python and prompt engineering (In Progress)</li>
 </ul>
 
 <h3 align="left">🌐 Connect with me:</h3>
