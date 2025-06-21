@@ -11,6 +11,7 @@
 <h3 align="left">💻 Current Projects:</h3>
 <ul>
   <li><a href="https://github.com/Audyari/hello-world">Hello World</a> - My first web project built with Rust (Done)</li>
+    <li><a href="https://github.com/Audyari/Kalkulator-Sederhana">Kalkulator Sederhana</a> - Kalkulator Sederhana built with Rust (In Progress)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
   <li><a href="https://github.com/Audyari/portfolio-website">Portfolio Website</a> - High-performance personal website using Rust web frameworks (In Progress)</li>
   <li><a href="https://github.com/Audyari/Kalkulator-Sederhana">Kalkulator Sederhana</a> - Kalkulator Sederhana using Python (Done)</li>
