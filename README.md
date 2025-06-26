@@ -14,12 +14,13 @@
   <li><a href="https://github.com/Audyari/Kalkulator-Sederhana-Rust">Kalkulator Sederhana</a> - Kalkulator Sederhana built with Rust (In Progress)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-File-Organizer-Rust">Aplikasi File Organizer dengan Rust</a> - Aplikasi File Organizer dengan Rust (In Progress)</li>
-   <li><a href="https://github.com/Audyari/Aplikasi-File-Organizer-lib">Aplikasi File Organizer lib</a> - Aplikasi File Organizer lib(In Progress)</li>
+  <li><a href="https://github.com/Audyari/Aplikasi-File-Organizer-lib">Aplikasi File Organizer lib</a> - Aplikasi File Organizer lib(In Progress)</li>
+   <li><a href="https://github.com/Audyari/Rust-TCP-Chat-Server">Rust TCP Chat Server</a> - Aplikasi Rust TCP Chat Server(In Progress)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
   <li><a href="https://github.com/Audyari/portfolio-website">Portfolio Website</a> - High-performance personal website using Rust web frameworks (In Progress)</li>
   <li><a href="https://github.com/Audyari/Kalkulator-Sederhana">Kalkulator Sederhana</a> - Kalkulator Sederhana using Python (Done)</li>
   <li><a href="https://github.com/Audyari/Simple-AI-Chatbot">Simple AI Chatbot</a> - Simple AI Chatbot using Python (Done)</li>
-   <li><a href="https://github.com/Audyari/StudyMate ">Study Guide Creator</a> - Study Guide Creator using Python and prompt engineering (In Progress)</li>
+  <li><a href="https://github.com/Audyari/StudyMate ">Study Guide Creator</a> - Study Guide Creator using Python and prompt engineering (In Progress)</li>
 </ul>
 
 <h3 align="left">🌐 Connect with me:</h3>
