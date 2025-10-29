@@ -40,9 +40,6 @@
     <a href="https://logspot-gamma.vercel.app/">🚀 Live Demo</a>
   </li>
   
-  <li><a href="https://github.com/Audyari/vue-counter-app">Vue Counter App</a> - First Vue.js project with Vite ⏳ <strong>Planning</strong></li>
-  <li><a href="https://github.com/Audyari/vue-weather-app">Weather Vue App</a> - Weather application with API integration ⏳ <strong>Planning</strong></li>
-  <li><a href="https://github.com/Audyari/vue-notes-app">Vue Notes App</a> - Notes app with localStorage ⏳ <strong>Planning</strong></li>
 </ul>
 
 <h3 align="left">🌐 Connect with me:</h3>
