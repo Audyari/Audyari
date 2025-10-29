@@ -30,7 +30,7 @@
     <a href="https://github.com/Audyari/vue-todo-app">🎯 Vue Todo App</a> 
     - My debut Vue.js project | Vite + Vue 3 + Tailwind 
     <img src="https://img.shields.io/badge/Status-In_Progress-orange" alt="In Progress"/>
-    <a href="https://vue-todo-app-audyari.vercel.app">🚀 Live Demo</a>
+    <a href="https://vue-todo-app-lf7e.vercel.app/">🚀 Live Demo</a>
   </li>
   
   <li><a href="https://github.com/Audyari/vue-counter-app">Vue Counter App</a> - First Vue.js project with Vite ⏳ <strong>Planning</strong></li>
