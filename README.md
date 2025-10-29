@@ -25,6 +25,13 @@
 
 ### 🟢 **Vue.js Projects** (New Focus!)
 
+<ul>
+  <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue ⏳ <strong>Coming Soon</strong></li>
+  <li><a href="https://github.com/Audyari/vue-counter-app">Vue Counter App</a> - First Vue.js project with Vite ⏳ <strong>Planning</strong></li>
+  <li><a href="https://github.com/Audyari/vue-weather-app">Weather Vue App</a> - Weather application with API integration ⏳ <strong>Planning</strong></li>
+  <li><a href="https://github.com/Audyari/vue-notes-app">Vue Notes App</a> - Notes app with localStorage ⏳ <strong>Planning</strong></li>
+</ul>
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/audyari-wiyono-249b4322b" target="_blank">
