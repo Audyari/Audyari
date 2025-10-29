@@ -32,6 +32,13 @@
     <img src="https://img.shields.io/badge/Status-In_Progress-orange" alt="In Progress"/>
     <a href="https://vue-todo-app-lf7e.vercel.app/">🚀 Live Demo</a>
   </li>
+
+   <li>
+    <a href="https://github.com/Audyari/logspot">🎯 LOGSPOT App</a> 
+    - Sebuah aplikasi changelog sederhana menggunakan Vue.js untuk menampilkan dan mengelola update produk/proyek. 
+    <img src="https://img.shields.io/badge/Status-In_Progress-orange" alt="In Progress"/>
+    <a href="https://logspot-gamma.vercel.app/">🚀 Live Demo</a>
+  </li>
   
   <li><a href="https://github.com/Audyari/vue-counter-app">Vue Counter App</a> - First Vue.js project with Vite ⏳ <strong>Planning</strong></li>
   <li><a href="https://github.com/Audyari/vue-weather-app">Weather Vue App</a> - Weather application with API integration ⏳ <strong>Planning</strong></li>
