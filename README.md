@@ -23,6 +23,8 @@
   <li><a href="https://github.com/Audyari/StudyMate ">Study Guide Creator</a> - Study Guide Creator using Python and prompt engineering (In Progress)</li>
 </ul>
 
+### 🟢 **Vue.js Projects** (New Focus!)
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/audyari-wiyono-249b4322b" target="_blank">
