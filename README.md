@@ -15,7 +15,7 @@
       <a href="https://github.com/Audyari/portfolio-website">🎯 Portfolio Website</a> 
       - Portfolio Website - Next.js Portfolio Starter Kit
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
-      <a href="https://portfolio-website-six-jet-25.vercel.app/">🚀 Live Demo</a>
+      <a href="https://portfolio-website-6z6vp2ebw-audyari-ws-projects.vercel.app/">🚀 Live Demo</a>
   </li>
   
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
