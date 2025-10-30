@@ -11,7 +11,6 @@
 <h3 align="left">💻 Current Projects:</h3>
 <ul>
   <li><a href="https://github.com/Audyari/hello-world">Hello World</a> - My first web project built with Rust (Done)</li>
-  <li><a href="https://github.com/Audyari/Kalkulator-Sederhana-Rust">Kalkulator Sederhana</a> - Kalkulator Sederhana built with Rust (In Progress)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-File-Organizer-Rust">Aplikasi File Organizer dengan Rust</a> - Aplikasi File Organizer dengan Rust (In Progress)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-File-Organizer-lib">Aplikasi File Organizer lib</a> - Aplikasi File Organizer lib(In Progress)</li>
