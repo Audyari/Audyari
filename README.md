@@ -10,10 +10,8 @@
 
 <h3 align="left">💻 Current Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Audyari/hello-world">Hello World</a> - My first web project built with Rust (Done)</li>
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
-  <li><a href="https://github.com/Audyari/Kalkulator-Sederhana">Kalkulator Sederhana</a> - Kalkulator Sederhana using Python (Done)</li>
   <li><a href="https://github.com/Audyari/Simple-AI-Chatbot">Simple AI Chatbot</a> - Simple AI Chatbot using Python (Done)</li>
 </ul>
 
