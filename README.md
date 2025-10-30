@@ -28,7 +28,7 @@
    <li>
     <a href="https://github.com/Audyari/logspot">🎯 LOGSPOT App</a> 
     - Sebuah aplikasi changelog sederhana menggunakan Vue.js untuk menampilkan dan mengelola update produk/proyek. 
-    <img src="https://img.shields.io/badge/Status-In_Progress-orange" alt="In Progress"/>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
     <a href="https://logspot-gamma.vercel.app/">🚀 Live Demo</a>
   </li>
   
