@@ -10,6 +10,14 @@
 
 <h3 align="left">💻 Current Projects:</h3>
 <ul>
+
+   <li>
+      <a href="https://github.com/Audyari/portfolio-website">🎯 Portfolio Website</a> 
+      - Portfolio Website - Next.js Portfolio Starter Kit
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
+      <a href="https://portfolio-website-six-jet-25.vercel.app/">🚀 Live Demo</a>
+  </li>
+  
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
   <li><a href="https://github.com/Audyari/Simple-AI-Chatbot">Simple AI Chatbot</a> - Simple AI Chatbot using Python (Done)</li>
