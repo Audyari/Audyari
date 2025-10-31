@@ -17,6 +17,13 @@
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
       <a href="https://portfolio-website-6z6vp2ebw-audyari-ws-projects.vercel.app/">🚀 Live Demo</a>
   </li>
+
+  <li>
+      <a href="https://github.com/Audyari/astro-supabase-starter">🎯 Web penjualan suku cadang pesawat</a> 
+      - Web penjualan suku cadang pesawat - Astro.js
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
+      <a href="https://skypartsolutions.netlify.app/">🚀 Live Demo</a>
+  </li>
   
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
