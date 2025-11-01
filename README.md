@@ -15,7 +15,7 @@
       <a href="https://github.com/Audyari/portfolio-website">🎯 Portfolio Website</a> 
       - Portfolio Website - Next.js Portfolio Starter Kit
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
-      <a href="https://portfolio-website-6z6vp2ebw-audyari-ws-projects.vercel.app/">🚀 Live Demo</a>
+      <a href="https://portfolio-website-ehfhhgtcn-audyari-ws-projects.vercel.app/">🚀 Live Demo</a>
   </li>
 
   <li>
