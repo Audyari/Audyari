@@ -27,7 +27,7 @@
 
   <li>
       <a href="https://github.com/Audyari/astro-supabase-starter">🎯 Web fashion retail management system</a> 
-      - Web penjualan suku cadang pesawat - Next.js
+      - Web fashion retail management system - Next.js
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
       <a href="https://fashionhubid.netlify.app/">🚀 Live Demo</a>
   </li>
