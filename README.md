@@ -24,6 +24,13 @@
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
       <a href="https://skypartsolutions.netlify.app/">🚀 Live Demo</a>
   </li>
+
+  <li>
+      <a href="https://github.com/Audyari/astro-supabase-starter">🎯 Web fashion retail management system</a> 
+      - Web penjualan suku cadang pesawat - Next.js
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"/>
+      <a href="https://fashionhubid.netlify.app/">🚀 Live Demo</a>
+  </li>
   
   <li><a href="https://github.com/Audyari/Aplikasi-Todo-List-Rust">Aplikasi Todo List dengan Rust</a> - Aplikasi Todo List dengan Rust (Done)</li>
   <li><a href="https://github.com/Audyari/todo-list-app">TaskFlow</a> - Simple & Intuitive Todo Manager built with Vue (Coming Soon)</li>
