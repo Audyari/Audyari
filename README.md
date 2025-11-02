@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
       </p>
       <p>
-        <a href="https://fashionhubid.netlify.app/">🚀 Live Demo</a> |
+        <a href="https://fashion-hub-id.vercel.app/">🚀 Live Demo</a> |
         <a href="https://github.com/Audyari/fashion-retail-management">📁 Source Code</a>
       </p>
     </td>
