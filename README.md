@@ -107,7 +107,9 @@
     <td width="50%">
       <a href="https://company-profile-katalog.vercel.app/">
         <h3>👗 FashionHub ID Company Profile & Product Catalog</h3>
-      </a>
+      </a><p align="center">
+        <img src="img/Capture3.PNG" width="100%" alt="Portfolio Demo"/>
+      </p>
       <p><b>Problem:</b> Small fashion retailers need an intuitive way to showcase their products and company profile.</p>
       <p><b>Solution:</b> Developed a comprehensive company profile and product catalog using Next.js, enabling a seamless and user-friendly experience for customers.</p>
       <p>
