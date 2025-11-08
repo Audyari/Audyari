@@ -88,7 +88,9 @@
     <td width="50%">
       <a href="https://github.com/Audyari/logspot">
         <h3>📰 LOGSPOT</h3>
-      </a>
+      </a></a><p align="center">
+        <img src="img/Capture2.PNG" width="100%" alt="Portfolio Demo"/>
+      </p>
       <p><b>Problem:</b> Teams need a simple, beautiful way to communicate product updates and changelogs to their users.</p>
       <p><b>Solution:</b> Created a clean and focused changelog application using Vue 3, designed for readability and easy content management.</p>
       <p>
