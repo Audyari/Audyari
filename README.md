@@ -36,7 +36,10 @@
     <td width="50%">
       <a href="https://github.com/Audyari/portfolio-website">
         <h3>🎯 Portfolio Website</h3>
-      </a>
+      </a>  <!-- Screenshot/GIF di sini -->
+      <p align="center">
+        <img src="img/Capture.PNG" width="100%" alt="Portfolio Demo"/>
+      </p>
       <p><b>Problem:</b> Needed a professional, fast, and SEO-optimized platform to showcase my projects and transition journey.</p>
       <p><b>Solution:</b> Developed a modern, responsive portfolio using Next.js and Tailwind CSS, achieving high Lighthouse scores and a seamless user experience.</p>
       <p>
