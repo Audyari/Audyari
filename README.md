@@ -71,7 +71,9 @@
     <td width="50%">
       <a href="https://github.com/Audyari/fashion-retail-management">
         <h3>👗 FashionHub ID</h3>
-      </a>
+      </a><p align="center">
+        <img src="img/Capture1.PNG" width="100%" alt="Portfolio Demo"/>
+      </p>
       <p><b>Problem:</b> Small fashion retailers need an intuitive system to manage inventory and sales without expensive enterprise software.</p>
       <p><b>Solution:</b> Built a comprehensive retail management dashboard with Next.js, enabling real-time inventory tracking, sales analytics, and product management.</p>
       <p>
