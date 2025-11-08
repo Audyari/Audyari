@@ -95,6 +95,27 @@
       </p>
     </td>
   </tr>
+
+<tr>
+    <td width="50%">
+      <a href="https://company-profile-katalog.vercel.app/">
+        <h3>👗 FashionHub ID Company Profile & Product Catalog</h3>
+      </a>
+      <p><b>Problem:</b> Small fashion retailers need an intuitive way to showcase their products and company profile.</p>
+      <p><b>Solution:</b> Developed a comprehensive company profile and product catalog using Next.js, enabling a seamless and user-friendly experience for customers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+      </p>
+      <p>
+        <a href="https://company-profile-katalog.vercel.app/">🚀 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+     
+
+  </tr>
+
 </table>
 
 ---
