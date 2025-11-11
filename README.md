@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Audyari Wiyono</h1>
-<h3 align="center">A Network Engineer architecting the future as a Full Stack Developer</h3>
+# Hi 👋, I'm Audyari Wiyono
+
+### A Network Engineer Architecting the Future as a Full Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Audyari&label=Profile%20views&color=0e75b6&style=flat" alt="Audyari" />
@@ -7,131 +8,135 @@
 
 ---
 
-<h3 align="left">🚀 My Story: From Infrastructure to Interface</h3>
-<p>
-  With over 15 years in IT infrastructure and network security, I've spent a career building the robust foundations that power technology. Now, I'm channeling that deep-rooted expertise into crafting modern, secure, and scalable web applications from the ground up. My unique perspective allows me to not only write clean code but also understand the entire system it runs on—from the database query to the network packet.
+## 🚀 My Story: From Infrastructure to Interface
+
+With over 15 years in IT infrastructure and network security, I've spent a career building the robust foundations that power technology. Now, I'm channeling that deep-rooted expertise into crafting modern, secure, and scalable web applications from the ground up. My unique perspective allows me to not only write clean code but also understand the entire system it runs on—from the database query to the network packet.
+
+---
+
+## 🔐 My Infrastructure & Security Edge
+
+My transition isn't just about learning new languages; it's about applying a wealth of systems knowledge to development. This means building applications that are:
+
+- 🛡️ **Secure by Design:** Built with a deep understanding of network security, common vulnerabilities, and best practices from day one.
+- ⚙️ **Operationally Excellent:** Designed for easy deployment, monitoring, and maintenance, leveraging my extensive DevOps and cloud experience.
+- 🌐 **Built for Scale:** Focused on performance and scalability, ensuring applications can handle growth without compromising on speed or reliability.
+
+---
+
+## ⭐ Featured Projects
+
+### 🎯 [Portfolio Website](https://github.com/Audyari/portfolio-website)
+
+<p align="center">
+  <img src="img/Capture.PNG" width="100%" alt="Portfolio Demo"/>
 </p>
 
----
+**Problem:** Needed a professional, fast, and SEO-optimized platform to showcase my projects and transition journey.
 
-<h3 align="left">🔐 My Infrastructure & Security Edge</h3>
+**Solution:** Developed a modern, responsive portfolio using Next.js and Tailwind CSS, achieving high Lighthouse scores and a seamless user experience.
+
+**Tech Stack:**
 <p>
-  My transition isn't just about learning new languages; it's about applying a wealth of systems knowledge to development. This means building applications that are:
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
-<ul>
-  <li>🛡️ <b>Secure by Design:</b> Built with a deep understanding of network security, common vulnerabilities, and best practices from day one.</li>
-  <li>⚙️ <b>Operationally Excellent:</b> Designed for easy deployment, monitoring, and maintenance, leveraging my extensive DevOps and cloud experience.</li>
-  <li>🌐 <b>Built for Scale:</b> Focused on performance and scalability, ensuring applications can handle growth without compromising on speed or reliability.</li>
-</ul>
+
+[🚀 Live Demo](https://portfolio-website-ehfhhgtcn-audyari-ws-projects.vercel.app/) | [📁 Source Code](https://github.com/Audyari/portfolio-website)
 
 ---
 
-<h3 align="left">⭐ Featured Projects</h3>
+### 🛩️ [SkyPart Solutions](https://github.com/Audyari/astro-supabase-starter)
 
-<!-- TIPS: Tambahkan screenshot atau GIF di sini untuk impact visual yang lebih besar! -->
-<!-- Contoh: <a href="LINK_REPO"><img src="LINK_GAMBAR_DALAM_REPO" width="600" alt="Project Screenshot"></a> -->
+**Problem:** Small aviation businesses struggle to find niche aircraft spare parts through slow, clunky e-commerce sites.
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Audyari/portfolio-website">
-        <h3>🎯 Portfolio Website</h3>
-      </a>  <!-- Screenshot/GIF di sini -->
-      <p align="center">
-        <img src="img/Capture.PNG" width="100%" alt="Portfolio Demo"/>
-      </p>
-      <p><b>Problem:</b> Needed a professional, fast, and SEO-optimized platform to showcase my projects and transition journey.</p>
-      <p><b>Solution:</b> Developed a modern, responsive portfolio using Next.js and Tailwind CSS, achieving high Lighthouse scores and a seamless user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      </p>
-      <p>
-        <a href="https://portfolio-website-ehfhhgtcn-audyari-ws-projects.vercel.app/">🚀 Live Demo</a> |
-        <a href="https://github.com/Audyari/portfolio-website">📁 Source Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Audyari/astro-supabase-starter">
-        <h3>🛩️ SkyPart Solutions</h3>
-      </a>
-      <p><b>Problem:</b> Small aviation businesses struggle to find niche aircraft spare parts through slow, clunky e-commerce sites.</p>
-      <p><b>Solution:</b> Architected a lightning-fast, SEO-first e-commerce platform with Astro.js and Supabase, dramatically improving page load times and search visibility.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
-      </p>
-      <p>
-        <a href="https://skypartsolutions.netlify.app/">🚀 Live Demo</a> |
-        <a href="https://github.com/Audyari/astro-supabase-starter">📁 Source Code</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Audyari/fashion-retail-management">
-        <h3>👗 FashionHub ID</h3>
-      </a><p align="center">
-        <img src="img/Capture1.PNG" width="100%" alt="Portfolio Demo"/>
-      </p>
-      <p><b>Problem:</b> Small fashion retailers need an intuitive system to manage inventory and sales without expensive enterprise software.</p>
-      <p><b>Solution:</b> Built a comprehensive retail management dashboard with Next.js, enabling real-time inventory tracking, sales analytics, and product management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-      </p>
-      <p>
-        <a href="https://fashion-hub-id.vercel.app/">🚀 Live Demo</a> |
-        <a href="https://github.com/Audyari/fashion-retail-management">📁 Source Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Audyari/logspot">
-        <h3>📰 LOGSPOT</h3>
-      </a></a><p align="center">
-        <img src="img/Capture2.PNG" width="100%" alt="Portfolio Demo"/>
-      </p>
-      <p><b>Problem:</b> Teams need a simple, beautiful way to communicate product updates and changelogs to their users.</p>
-      <p><b>Solution:</b> Created a clean and focused changelog application using Vue 3, designed for readability and easy content management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
-      </p>
-      <p>
-        <a href="https://logspot-gamma.vercel.app/">🚀 Live Demo</a> |
-        <a href="https://github.com/Audyari/logspot">📁 Source Code</a>
-      </p>
-    </td>
-  </tr>
+**Solution:** Architected a lightning-fast, SEO-first e-commerce platform with Astro.js and Supabase, dramatically improving page load times and search visibility.
 
-<tr>
-    <td width="50%">
-      <a href="https://company-profile-katalog.vercel.app/">
-        <h3>👗 FashionHub ID Company Profile & Product Catalog</h3>
-      </a><p align="center">
-        <img src="img/Capture3.PNG" width="100%" alt="Portfolio Demo"/>
-      </p>
-      <p><b>Problem:</b> Small fashion retailers need an intuitive way to showcase their products and company profile.</p>
-      <p><b>Solution:</b> Developed a comprehensive company profile and product catalog using Next.js, enabling a seamless and user-friendly experience for customers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-      </p>
-      <p>
-        <a href="https://company-profile-katalog.vercel.app/">🚀 Live Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-     
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
-  </tr>
-
-</table>
+[🚀 Live Demo](https://skypartsolutions.netlify.app/) | [📁 Source Code](https://github.com/Audyari/astro-supabase-starter)
 
 ---
 
-<h3 align="left">🛠️ Technical Arsenal</h3>
+### 👗 [FashionHub ID](https://github.com/Audyari/fashion-retail-management)
 
-**Core Competencies (Frontend & Ecosystem)**
+<p align="center">
+  <img src="img/Capture1.PNG" width="100%" alt="FashionHub Demo"/>
+</p>
+
+**Problem:** Small fashion retailers need an intuitive system to manage inventory and sales without expensive enterprise software.
+
+**Solution:** Built a comprehensive retail management dashboard with Next.js, enabling real-time inventory tracking, sales analytics, and product management.
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+</p>
+
+[🚀 Live Demo](https://fashion-hub-id.vercel.app/) | [📁 Source Code](https://github.com/Audyari/fashion-retail-management)
+
+---
+
+### 📰 [LOGSPOT](https://github.com/Audyari/logspot)
+
+<p align="center">
+  <img src="img/Capture2.PNG" width="100%" alt="LOGSPOT Demo"/>
+</p>
+
+**Problem:** Teams need a simple, beautiful way to communicate product updates and changelogs to their users.
+
+**Solution:** Created a clean and focused changelog application using Vue 3, designed for readability and easy content management.
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</p>
+
+[🚀 Live Demo](https://logspot-gamma.vercel.app/) | [📁 Source Code](https://github.com/Audyari/logspot)
+
+---
+
+### 🏢 [FashionHub ID Company Profile & Product Catalog](https://company-profile-katalog.vercel.app/)
+
+<p align="center">
+  <img src="img/Capture3.PNG" width="100%" alt="Company Profile Demo"/>
+</p>
+
+**Problem:** Small fashion retailers need an intuitive way to showcase their products and company profile.
+
+**Solution:** Developed a comprehensive company profile and product catalog using Next.js, enabling a seamless and user-friendly experience for customers.
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+</p>
+
+[🚀 Live Demo](https://company-profile-katalog.vercel.app/)
+
+---
+
+### 📍 [LaporLoka](https://github.com/Audyari/laporloka)
+
+**Description:** LaporLoka adalah sistem pelaporan berbasis lokasi yang memungkinkan pengguna untuk mengirimkan, melacak, dan mengelola laporan dengan informasi geografis.
+
+**Tech Stack:**
+- **Backend:** Laravel 12.0 (PHP 8.2+)
+- **Frontend:** Livewire dengan komponen Volt dan Flux
+
+[📁 Source Code](https://github.com/Audyari/laporloka)
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Core Competencies (Frontend & Ecosystem)
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -141,7 +146,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
-**Actively Learning & Expanding Into**
+### Actively Learning & Expanding Into
+
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
@@ -151,7 +157,8 @@
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
 </p>
 
-**Infrastructure & Operations**
+### Infrastructure & Operations
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -162,28 +169,30 @@
 
 ---
 
-<h3 align="left">📊 GitHub Activity & Stats</h3>
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Audyari&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="Audyari's GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audyari&theme=vue-dark&hide_border=true" alt="Audyari's GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">🎯 2025 Growth Roadmap</h3>
+## 🎯 2025 Growth Roadmap
 
-- [ ] **Build a production-ready Rust SaaS:** A full-stack application with a Rust backend (Actix/Axum) and a Vue/React frontend.
-- [ ] **Master WebAssembly:** Develop a high-performance browser application using Rust and WASM.
-- [ ] **Contribute to Open Source:** Actively contribute to a Rust or Vue.js ecosystem project.
-- [ ] **Deepen Cloud Expertise:** Achieve an advanced cloud architecture certification (e.g., AWS Solutions Architect Professional).
-- [ ] **Share My Journey:** Launch a technical blog detailing my transition from network engineering to full-stack development.
+- [ ] **Build a production-ready Rust SaaS** - A full-stack application with a Rust backend (Actix/Axum) and a Vue/React frontend
+- [ ] **Master WebAssembly** - Develop a high-performance browser application using Rust and WASM
+- [ ] **Contribute to Open Source** - Actively contribute to a Rust or Vue.js ecosystem project
+- [ ] **Deepen Cloud Expertise** - Achieve an advanced cloud architecture certification (e.g., AWS Solutions Architect Professional)
+- [ ] **Share My Journey** - Launch a technical blog detailing my transition from network engineering to full-stack development
 
 ---
 
-<h3 align="left">🌐 Let's Connect & Collaborate</h3>
+## 🌐 Let's Connect & Collaborate
+
 <p align="left">
   <a href="https://www.linkedin.com/in/audyari-wiyono-249b4322b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -198,6 +207,8 @@
   <br/>
   <i>🤝 Let's build something robust, secure, and remarkable together!</i>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
