@@ -123,6 +123,10 @@ My transition isn't just about learning new languages; it's about applying a wea
 
 ### 📍 [LaporLoka](https://github.com/Audyari/laporloka)
 
+<p align="center">
+  <img src="img/laporloka.JPG" width="100%" alt="LaporLoka Demo"/>
+</p>
+
 **Description:** LaporLoka adalah sistem pelaporan berbasis lokasi yang memungkinkan pengguna untuk mengirimkan, melacak, dan mengelola laporan dengan informasi geografis.
 
 **Tech Stack:**
