@@ -176,15 +176,23 @@ My transition isn't just about learning new languages; it's about applying a wea
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Audyari&show_icons=true&locale=en&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Audyari's GitHub Stats" />
+  <a href="https://github.com/Audyari">
+    <img src="https://img.shields.io/github/followers/Audyari?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Audyari">
+    <img src="https://img.shields.io/github/stars/Audyari?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/Audyari">
+    <img src="https://img.shields.io/github/forks/Audyari?label=Forks&style=for-the-badge&color=green" alt="GitHub Forks"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Audyari&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Audyari's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audyari&theme=vue-dark&hide_border=true" alt="Audyari's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audyari&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,vue,astro" alt="Top Languages" />
 </p>
 
 ---
