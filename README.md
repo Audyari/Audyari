@@ -173,30 +173,6 @@ My transition isn't just about learning new languages; it's about applying a wea
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <a href="https://github.com/Audyari">
-    <img src="https://img.shields.io/github/followers/Audyari?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Audyari">
-    <img src="https://img.shields.io/github/stars/Audyari?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/Audyari">
-    <img src="https://img.shields.io/github/forks/Audyari?label=Forks&style=for-the-badge&color=green" alt="GitHub Forks"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audyari&theme=vue-dark&hide_border=true" alt="Audyari's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,vue,astro" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 2025 Growth Roadmap
 
 - [ ] **Build a production-ready Rust SaaS** - A full-stack application with a Rust backend (Actix/Axum) and a Vue/React frontend
